@@ -1,0 +1,6 @@
+[
+  {
+    "name": "sarmads-pipeline-ecr",
+    "imageUri": "489994096722.dkr.ecr.us-east-1.amazonaws.com/sarmads-pipeline-ecr:latest"
+  }
+]
